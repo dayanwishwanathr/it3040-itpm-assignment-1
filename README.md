@@ -1,6 +1,6 @@
 # IT23413474 Playwright Test Automation Project
 
-# Sometimes the system (https://www.swifttranslator.com/) does not function properly, which results in inconsistent actual outputs during test execution.
+#### Sometimes the system (https://www.swifttranslator.com/) does not function properly, which results in inconsistent actual outputs during test execution.
 
 ## 1. Introduction
 This project is an automated test suite for the Swift Translator web application. 
