@@ -16,7 +16,7 @@ Each row in the Excel file represents one test case. The Playwright test file
 ## 3. How to Set Up the Project
 1. Open a terminal and go to the project folder:
    ```bash
-   cd IT23413474_Playwright_Project
+   cd IT23413474
    ```
 
 2. Install the required Node.js packages:
@@ -82,7 +82,7 @@ npm run report
 
 ## 6. Project Structure (Summary)
 ```text
-IT23413474_Playwright_Project/
+IT23413474/
 ├── tests/
 │   └── excelDataDriven.spec.js   (main automated test file)
 ├── testData/
